@@ -1,0 +1,12 @@
+C:\Users\79188\Desktop\Задания\cleverence task\Task1\MyServer\bin\Debug\net6.0\MyServer.deps.json
+C:\Users\79188\Desktop\Задания\cleverence task\Task1\MyServer\bin\Debug\net6.0\MyServer.dll
+C:\Users\79188\Desktop\Задания\cleverence task\Task1\MyServer\bin\Debug\net6.0\MyServer.pdb
+C:\Users\79188\Desktop\Задания\cleverence task\Task1\MyServer\obj\Debug\net6.0\MyServer.csproj.AssemblyReference.cache
+C:\Users\79188\Desktop\Задания\cleverence task\Task1\MyServer\obj\Debug\net6.0\MyServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79188\Desktop\Задания\cleverence task\Task1\MyServer\obj\Debug\net6.0\MyServer.AssemblyInfoInputs.cache
+C:\Users\79188\Desktop\Задания\cleverence task\Task1\MyServer\obj\Debug\net6.0\MyServer.AssemblyInfo.cs
+C:\Users\79188\Desktop\Задания\cleverence task\Task1\MyServer\obj\Debug\net6.0\MyServer.csproj.CoreCompileInputs.cache
+C:\Users\79188\Desktop\Задания\cleverence task\Task1\MyServer\obj\Debug\net6.0\MyServer.dll
+C:\Users\79188\Desktop\Задания\cleverence task\Task1\MyServer\obj\Debug\net6.0\refint\MyServer.dll
+C:\Users\79188\Desktop\Задания\cleverence task\Task1\MyServer\obj\Debug\net6.0\MyServer.pdb
+C:\Users\79188\Desktop\Задания\cleverence task\Task1\MyServer\obj\Debug\net6.0\ref\MyServer.dll
